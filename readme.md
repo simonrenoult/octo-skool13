@@ -1,3 +1,3 @@
 # People
 
-- Simon Renoult
+- Simon Renoul
